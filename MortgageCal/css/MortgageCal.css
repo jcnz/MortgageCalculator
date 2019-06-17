@@ -1,0 +1,85 @@
+
+ 
+.Mortgage.Calculator\.MortgageCal
+{
+	font-family: 'SegoeUI-Semibold', 'Segoe UI Semibold', 'Segoe UI Regular', 'Segoe UI';
+}
+
+.Mortgage.Calculator\.MortgageCal .MortgageContainer
+{
+	overflow-x: auto;
+	float:left;
+}
+
+.Mortgage.Calculator\.MortgageCal .ResultContainer
+{
+	overflow-x: auto;
+	float:left;
+	margin-left : 30px;
+}
+
+.Mortgage.Calculator\.MortgageCal .SampleControlHtmlTable_HtmlRow
+{
+	background-color: #FFFFFF;
+}
+
+.Mortgage.Calculator\.MortgageCal .SampleControlHtmlTable_HtmlHeaderCell
+{
+	text-align: left;
+}
+
+.Mortgage.Calculator\.MortgageCal .SampleControlHtmlTable_HtmlCell, 
+.Mortgage.Calculator\.MortgageCal .SampleControlHtmlTable_HtmlHeaderCell
+{
+	border: 1px solid black;
+	padding-left: 3px;
+	padding-right: 3px;
+}
+
+.Mortgage.Calculator\.MortgageCal .SampleControlHtmlTable_HtmlHeaderCell
+{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.Mortgage.Calculator\.MortgageCal .SampleControlHtmlTable_HtmlCell_Key
+{
+	color: #1160B7;
+	text-align: left;
+}
+
+.Mortgage.Calculator\.MortgageCal .ResultsLabel
+{
+	color: #FF4500;
+	text-align: center;
+	display:block;
+	width:150px;
+}
+
+.Mortgage.Calculator\.MortgageCal .SampleControlHtmlTable_HtmlCell_Value
+{
+	color: #1160B7;
+	text-align: center;
+}
+
+.Mortgage.Calculator\.MortgageCal .SampleControlHtmlTable_ButtonClass
+{
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	cursor: pointer;
+	color: #1160B7;
+	background-color: #FFFFFF;
+	border: 1px solid black;
+	padding: 5px;
+	text-align: center;
+	min-width: 300px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	display: block;
+}
+
+.Mortgage.Calculator\.MortgageCal .lookupObjectsResultDiv
+{
+	color: #1160B7;
+}
